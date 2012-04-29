@@ -1,0 +1,10 @@
+C:\Users\REMI\AppData\Local\Temporary Projects\Mandelbrot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\REMI\AppData\Local\Temporary Projects\Mandelbrot\bin\Debug\Mandelbrot.exe
+C:\Users\REMI\AppData\Local\Temporary Projects\Mandelbrot\bin\Debug\Mandelbrot.pdb
+C:\Users\REMI\AppData\Local\Temporary Projects\Mandelbrot\obj\x86\Debug\Mandelbrot.exe
+C:\Users\REMI\AppData\Local\Temporary Projects\Mandelbrot\obj\x86\Debug\Mandelbrot.pdb
+E:\Dev\C#\Graphics\Mandelbrot\Mandelbrot\obj\x86\Debug\Mandelbrot.exe
+E:\Dev\C#\Graphics\Mandelbrot\Mandelbrot\obj\x86\Debug\Mandelbrot.pdb
+E:\Dev\C#\Graphics\Mandelbrot\Mandelbrot\bin\Debug\Mandelbrot.exe
+E:\Dev\C#\Graphics\Mandelbrot\Mandelbrot\bin\Debug\Mandelbrot.pdb
+E:\Dev\C#\Graphics\Mandelbrot\Mandelbrot\obj\x86\Debug\ResolveAssemblyReference.cache
